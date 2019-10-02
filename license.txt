@@ -1,0 +1,84 @@
+By downloading, installing, or running the SOFTWARE, you agree to be bound by the
+following license terms and conditions.
+
+NONEXCLUSIVE, NON-TRANSFERABLE SOFTWARE LICENSE AGREEMENT
+
+The California Institute of Technology ("CALTECH"), will provide you or your company
+("LICENSEE") [executable/source code] for "MCRL" ("SOFTWARE"), which is
+protected under copyright laws and applicable international intellectual property
+treaties. The SOFTWARE is available to LICENSEE on the following terms: 
+
+1. CALTECH hereby grants to LICENSEE a nonexclusive, non-transferable, royalty-free
+license, without the right to sublicense, to use the SOFTWARE for non-commercial,
+research purposes only.  The SOFTWARE may only be used by the LICENSEE. The LICENSEE agrees
+not to distribute the SOFTWARE to any person external to the LICENSEE without the
+prior written permission of CALTECH.
+  
+2. The SOFTWARE is experimental in nature and is being licensed "as is". The license
+does not include any technical or other type of support.
+  
+3. None of the SOFTWARE provided or output from the SOFTWARE provided may be used in
+commercial products or services directly or indirectly unless a license agreement
+granting the right to use the SOFTWARE or output in commercial products or services
+is executed between CALTECH and LICENSEE. LICENSEE agrees that it will not license,
+distribute, or sell the SOFTWARE or any software, information or data that
+incorporate any part of the SOFTWARE, including "Derivative Works" thereof (as
+defined in the U.S. copyright statutes, 17 USC § 101), to any other parties without
+having executed such an agreement with CALTECH.
+  
+4. LICENSEE has not been granted any trademark license as part of this agreement and
+agrees not to use the name of CALTECH or the California Institute of Technology for
+any purpose whatsoever.
+    
+5. LICENSEE agrees that any person within the LICENSEE utilizing the SOFTWARE will
+be advised of, and is subject to, the conditions of this license.
+
+6. THE SOFTWARE AND/OR RELATED MATERIALS ARE PROVIDED “AS-IS” WITHOUT WARRANTY OF
+ANY KIND INCLUDING ANY WARRANTIES OF PERFORMANCE OR NONINFRINGEMENT OR
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR USE OR PURPOSE (AS SET FORTH IN UCC
+2312-2313) OR FOR ANY PURPOSE WHATSOEVER, HOWEVER USED.
+
+IN NO EVENT SHALL CALTECH BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES AND/OR COSTS, INCLUDING BUT NOT LIMITED TO
+INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING, BUT NOT LIMITED TO,
+ECONOMIC DAMAGE OR INJURY TO PROPERTY OR COST OF PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES, LOSS OF USE, DATA, OR PROFITS, OR BUSINESS INTERRUPTION, HOWEVER CAUSED
+AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, REGARDLESS OF WHETHER CALTECH SHALL BE ADVISED, HAVE REASON TO KNOW, OR IN
+FACT SHALL KNOW OF THE POSSIBILITY.
+
+LICENSEE BEARS ALL RISK RELATING TO QUALITY AND PERFORMANCE OF THE SOFTWARE AND/OR
+RELATED MATERIALS, AND AGREES TO INDEMNIFY CALTECH FOR ALL THIRD-PARTY CLAIMS
+RESULTING FROM THE ACTIONS OF LICENSEE IN THE USE OF THE SOFTWARE.
+
+7. All right, title, and interest in and to all data, information, and inventions
+that result from use of the SOFTWARE by the LICENSEE shall vest in and belong to the
+LICENSEE, with the exception of Derivative Works, which shall be owned according to
+U.S. copyright law.  The LICENSEE agrees to acknowledge CALTECH and the authors in 
+publications that reference the SOFTWARE.
+
+8. This license covers the use described in paragraph 1 above.  All other uses of
+the SOFTWARE by the LICENSEE must be approved in writing in advance by CALTECH.
+CALTECH will consider all requests for a commercial license, but shall be under no
+obligation to grant such license.
+  
+9. This license will be governed by the laws of the State of California, and any
+action brought hereunder shall be within the State of California.
+
+10. The grant of this license is subject to the requirements necessary to comply
+with all applicable U.S. export laws (including, but not limited to, 22 CFR §120-130
+and 15 CFR §730-774), and  LICENSEE agrees to comply with all applicable U.S. export
+control laws and regulations (including, but not limited to, 22 CFR §120-130 and 15
+CFR §730-774).  To the extent that the SOFTWARE is subject to U.S. export control
+laws and regulations, LICENSEE has the responsibility to obtain export licenses or
+other export authority as may be required before exporting such information to
+foreign countries or providing access to foreign persons.
+
+11. This license constitutes the sole and entire agreement of the parties as to the
+matter set forth herein and supersedes any previous agreements, understandings, and
+arrangements, whether oral or written, between the parties relating hereto.  No
+waiver of or change in any of the terms hereof claimed to have been made by any
+representative of either party shall have any force or effect unless in writing,
+signed by duly authorized representatives of the parties.
+  
